@@ -1,1 +1,1 @@
-fix non-coco val
+New test for labels and crops (#8861)
