@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
